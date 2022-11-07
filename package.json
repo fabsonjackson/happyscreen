@@ -13,6 +13,9 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "capture-website": "^3.2.0",
-    "commander": "^9.4.1"
+    "commander": "^9.4.1",
+    "node-fetch": "^3.2.10",
+    "node-html-parser": "^6.1.1",
+    "prerender": "^5.20.0"
   }
 }
