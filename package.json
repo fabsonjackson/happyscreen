@@ -1,0 +1,18 @@
+{
+  "name": "happyscreen",
+  "version": "1.0.0",
+  "description": "Check Website after update",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "screenshot"
+  ],
+  "author": "fabson",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "capture-website": "^3.2.0",
+    "commander": "^9.4.1"
+  }
+}
